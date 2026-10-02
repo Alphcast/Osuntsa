@@ -1,0 +1,6 @@
+{
+  "name": "OSUN-TSA - Osun State Treasury Single Account",
+  "description": "Unified Treasury Single Account (TSA) revenue collection, e-invoicing, double-entry ledger, and transparency portal for the Osun State Government.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
